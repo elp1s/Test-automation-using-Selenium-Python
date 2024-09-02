@@ -1,7 +1,7 @@
 # Test-automation-using-Selenium-Python
 Задания из курса [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575)
 
-`Часть 1`
+`Часть 1 Знакомимся с Selenium`
 ###### lesson6_step4.py
 - Задание: поиск элементов с помощью Selenium
 
@@ -14,7 +14,7 @@
 ###### lesson6_step8.py
 - Задание: поиск элемента по XPath
 
-`Часть 2`
+`Часть 2 Полезные методы Selenium`
 ###### lesson1_step5.py
 - Задание: кликаем по checkboxes и radiobuttons (капча для роботов)
     Ваша программа должна выполнить следующие шаги:
